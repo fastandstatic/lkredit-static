@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>lkredit</title>
+	<title>Kredit</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Fri, 02 Jun 2023 21:37:42 +0000</lastBuildDate>
+	<description>Más que un crédito</description>
+	<lastBuildDate>Fri, 02 Jun 2023 22:02:02 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2023/06/cropped-Favicon-2-32x32.png</url>
-	<title>lkredit</title>
+	<title>Kredit</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
