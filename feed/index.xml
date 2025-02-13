@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Más que un crédito</description>
-	<lastBuildDate>Thu, 09 May 2024 19:35:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2025 14:35:33 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
 	<url>./../wp-content/uploads/2023/06/cropped-Favicon-2-32x32.png</url>
